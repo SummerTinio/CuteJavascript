@@ -63,3 +63,9 @@ When you realize that all things in JS are just a ⬛ primitive or an { ⬛,⬛,
 
 ✌️ Thanks for reading! 🐱‍🚀
 > 🌠🚀 ⓤ ®️ 🆒 🚀🌠
+
+## License & Copyright
+
+All materials herein are © 2021 Summer Tinio.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
