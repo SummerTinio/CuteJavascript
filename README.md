@@ -59,6 +59,7 @@
 - ⬛️-> ⚫️-> 🔵-> 🌀
 - 'this' is whatever 'this' was, at the left of the dot.
 - Chaining Object methods on methods on methods is possible since, after modifying ‘this,’ (⬛️-> ⚫️) each of those methods return ‘this,’ (⚫️) for the next method to consume. (⚫️-> 🔵) .. return (🔵) .. then (🔵-> 🌀) .. return (🌀) and so on. 
+- It's like adding beads to a bracelet. Before you can add another bead, you gotta expose the thread inside it.
 
 
 When you realize that all things in JS are just a ⬛ primitive or an { ⬛,⬛,⬛ } object, it's a lot easier to 🧠remember what 'this' is.
